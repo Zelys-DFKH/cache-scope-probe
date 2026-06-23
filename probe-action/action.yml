@@ -1,0 +1,6 @@
+name: Cache Scope Probe
+description: Tests cross-repo cache scope
+runs:
+  using: node20
+  main: index.js
+
